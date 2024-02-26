@@ -1,1 +1,1 @@
-Solving CS50 Problem sets.
+Solving CS50 Problemsets.
